@@ -1,16 +1,36 @@
-## Hi there 👋
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines='HELLO+WORLD';This+Is+Hyunwoo's+Repository )](https://git.io/typing-svg) 👋👋👋
 
-<!--
-**hyunnuuu/hyunnuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently, I am dreaming of becoming a developer on the backend or robot side.  
+I usually play Python and study Java and C++.  
+These days, I mainly study artificial intelligence and prepare for the information controller test. I have been working part- 
+ time and in school since high school. Through this experience, I plan to take a step forward by managing my time efficiently.  
+'I will be a growing developer.'  
+  
+🔭 I’m currently working on KNU  
+🌱 I’m currently learning 💻  
+📫 How to reach me : hyunnuu@gmail.com  
+## Project  
+- Parcel Box AI object recognition program
 
-Here are some ideas to get you started:
+## AI Project    
+- Hard Hat Detact Model
+- Drone Detact Model
+- Smoke Detact Model
+- Teachable Machine
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## AI Recognition Using Robots
+- Native App using yolov5
+- Native App (TTS) with yolov5
+
+## Study
+- 정보처리기사
+- JAVA 공부
+  
+
+
+
+
+
+
+  
+

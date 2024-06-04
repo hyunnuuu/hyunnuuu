@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines='HELLO+WORLD';This+Is+Hyunwoo's+Repository )](https://git.io/typing-svg) 👋👋👋
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines='HELLO+WORLD';This+Is+Hyunwoo's+Repository )](https://git.io/typing-svg) 👋
 
 Currently, I am dreaming of becoming a developer on the backend or robot side.  
 I usually play Python and study Java and C++.  

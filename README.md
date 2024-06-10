@@ -11,7 +11,7 @@ These days, I mainly study artificial intelligence and prepare for the informati
 📫 How to reach me : hyunnuu@gmail.com  
 ## Project  
 -[Parcel Box AI object recognition program](https://github.com/hyunnuuu/Parcel-Box)  
--Puppy Breed Recognition Program Using Teachable Machine  
+-[Puppy Breed Recognition Program Using Teachable Machine](https://github.com/hyunnuuu/Puppy-Breed-Recognition-Program-Using-Teachable-Machine)  
 
 ## AI Project    
 - Hard Hat Detact Model

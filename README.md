@@ -10,7 +10,7 @@ These days, I mainly study artificial intelligence and prepare for the informati
 🌱 I’m currently learning 💻  
 📫 How to reach me : hyunnuu@gmail.com  
 ## Project  
--[Parcel Box AI object recognition program] (https://github.com/hyunnuuu/Parcel-Box,"Parcel Box AI object recognition program")
+-[Parcel Box AI object recognition program] (https://github.com/hyunnuuu/Parcel-Box,"Parcel Box AI object recognition program")  
 -Puppy Breed Recognition Program Using Teachable Machine  
 
 ## AI Project    

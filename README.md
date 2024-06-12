@@ -14,7 +14,7 @@ These days, I mainly study artificial intelligence and prepare for the informati
 -[Puppy Breed Recognition Program Using Teachable Machine](https://github.com/hyunnuuu/Puppy-Breed-Recognition-Program-Using-Teachable-Machine)  
 
 ## AI Project    
-- Hard Hat Detact Model
+- [Hard Hat Detact Model](https://github.com/hyunnuuu/Hard-Hat-Detact-Model/blob/main/README.md)
 - Drone Detact Model
 - Smoke Detact Model
 - Teachable Machine

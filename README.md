@@ -21,7 +21,7 @@ These days, I mainly study artificial intelligence and prepare for the informati
 
 ## AI Recognition Using Robots
 - [Native App using yolov5](https://github.com/hyunnuuu/Native-App-using-yolov5.git)
-- Native App (TTS) with yolov5
+- [Native App (TTS) with yolov5](https://github.com/hyunnuuu/Native-App-TTS-with-yolov5.git)
 
 ## Study
 - 정보처리기사

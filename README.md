@@ -17,7 +17,7 @@ These days, I mainly study artificial intelligence and prepare for the informati
 - [Hard Hat Detact Model](https://github.com/hyunnuuu/Hard-Hat-Detact-Model/blob/main/README.md)
 - [Drone Detact Model](https://github.com/hyunnuuu/Drone-Detact-Model.git)  
 - [Smoke Detact Model](https://github.com/hyunnuuu/Smoke-Detact-Model.git)
-- Teachable Machine
+- [Teachable Machine](https://github.com/hyunnuuu/Teachable-Machine.git)
 
 ## AI Recognition Using Robots
 - Native App using yolov5

@@ -24,8 +24,8 @@ These days, I mainly study artificial intelligence and prepare for the informati
 - [Native App (TTS) with yolov5](https://github.com/hyunnuuu/Native-App-TTS-with-yolov5.git)
 
 ## Study
-- 정보처리기사
-- JAVA 공부
+- [정보처리기사](https://github.com/hyunnuuu/--Information-Processing-Engineer.git)
+- [JAVA 공부]()
   
 
 

@@ -15,7 +15,7 @@ These days, I mainly study artificial intelligence and prepare for the informati
 
 ## AI Project    
 - [Hard Hat Detact Model](https://github.com/hyunnuuu/Hard-Hat-Detact-Model/blob/main/README.md)
-- Drone Detact Model
+- [Drone Detact Model](https://github.com/hyunnuuu/Drone-Detact-Model.git)  
 - Smoke Detact Model
 - Teachable Machine
 

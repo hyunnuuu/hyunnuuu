@@ -20,7 +20,7 @@ These days, I mainly study artificial intelligence and prepare for the informati
 - [Teachable Machine](https://github.com/hyunnuuu/Teachable-Machine.git)
 
 ## AI Recognition Using Robots
-- Native App using yolov5
+- [Native App using yolov5](https://github.com/hyunnuuu/Native-App-using-yolov5.git)
 - Native App (TTS) with yolov5
 
 ## Study
